@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinex7
 - 👀 I’m interested in soccer
-- 🌱 I’m currently learning Web developmen and Cloud computing
+- 🌱 I’m currently learning Web development and Cloud computing
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me thabelosilima@gmail.com
 
