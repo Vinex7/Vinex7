@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinex7
-- 👀 I’m interested in soccer
+- 👀 I’m interested in chess
 - 🌱 I’m a Software Engineer, Data Engineer, Web and Cloud Developer
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me thabelosilima@gmail.com
